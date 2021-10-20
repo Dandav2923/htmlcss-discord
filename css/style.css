@@ -244,17 +244,8 @@ a.btn.dark:focus {
     text-decoration: underline;
 }
 
-#bandiera {
-    width: 2em;
-}
-
 .elementi h3 {
     color:#5865F2 ;
-}
-
-#titolo-grande {
-    font-size: 2em;
-    padding-bottom: 0.5em;
 }
 
 hr {
@@ -283,3 +274,18 @@ hr {
 .float-right {
     float: right;
 }
+
+#titolo-grande {
+    font-size: 2em;
+    padding-bottom: 0.5em;
+}
+
+#bandiera {
+    width: 2em;
+}
+
+ .registrati a:hover,
+ .registrati a:focus,
+ .registrati a:active {
+     color: #265ee8; 
+ }
