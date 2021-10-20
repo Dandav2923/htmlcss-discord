@@ -189,6 +189,7 @@ a.btn.dark:focus {
 .bottone {
     display: block;
     text-align: center;
+    padding-bottom: 2em;
 }
 
 #bottone-finale {
@@ -203,7 +204,8 @@ a.btn.dark:focus {
 .riga-finale {
     width: 80%;
     margin: 0 auto;
-    padding-top: 4em;
+    padding: 4em 0 2em 0;
+    border-bottom: #5865F2 solid 2px;
 }
 
 .col {
@@ -212,8 +214,72 @@ a.btn.dark:focus {
 
 .col.social {
     width: 40%;
+    text-align: left;
 }
 
 .liste-elementi {
     list-style-type: none;
+    text-align: left;
+}
+
+.elementi {
+    padding: 0.5em 0;  
+}
+
+.fa-brands {
+    margin-left: 1em;
+}
+
+.lingua {
+    font-size: 1.5em;
+    margin-left: 0.2em;
+}
+
+.liste-elementi li a {
+    text-decoration: none;
+    color: white;
+}
+
+.liste-elementi li a:hover {
+    text-decoration: underline;
+}
+
+#bandiera {
+    width: 2em;
+}
+
+.elementi h3 {
+    color:#5865F2 ;
+}
+
+#titolo-grande {
+    font-size: 2em;
+    padding-bottom: 0.5em;
+}
+
+hr {
+    color: #5865F2;
+}
+
+.contenitore-logo {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo-inferiore {
+    padding: 2em 0;
+}
+
+.registrati a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 1em 1.5em;
+    background-color: cornflowerblue;
+    border-radius: 2em;
+    margin-top: 1em;
+}
+
+.float-right {
+    float: right;
 }
