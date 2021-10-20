@@ -196,3 +196,24 @@ a.btn.dark:focus {
     color: white ;
 }
 
+.contenitore-footer {
+    background-color: #23272A;
+    color: white;
+}
+.riga-finale {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 4em;
+}
+
+.col {
+    width: 15%;
+}
+
+.col.social {
+    width: 40%;
+}
+
+.liste-elementi {
+    list-style-type: none;
+}
