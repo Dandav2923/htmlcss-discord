@@ -161,3 +161,33 @@ a.btn.dark:focus {
 .sfondo-grigio {
     background-color: #f6f6f6;
 }
+
+.contenitore-testo , .contenitore-img {
+    text-align: center;
+}
+
+.contenitore-testo {
+    padding: 3em 3em 0 3em;
+}
+
+.titolo-finale {
+    font-size: 3em;
+}
+
+.sfondo-stelle {
+    background-image: url(../img/stars.svg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.avventura {
+    display: inline-block;
+    margin: 2em;
+}
+
+.bottone {
+    display: block;
+    text-align: center;
+}
+
