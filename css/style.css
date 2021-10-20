@@ -191,3 +191,8 @@ a.btn.dark:focus {
     text-align: center;
 }
 
+#bottone-finale {
+    background-color: cornflowerblue;
+    color: white ;
+}
+
