@@ -125,6 +125,10 @@ a.btn.dark:focus {
 }
 
 .contenitore-main {
+    width: 100%;
+}
+
+.riga {
     width: 70%;
     margin: 0 auto;
 }
@@ -154,6 +158,6 @@ a.btn.dark:focus {
     line-height: 1.3em;
 }
 
-.centrale {
+.sfondo-grigio {
     background-color: #f6f6f6;
 }
